@@ -1,0 +1,9 @@
+actor:clue for actor
+handy:clue for handy
+bowls:clue for bowls
+haste:clue for haste
+scope:clue for scope
+deals:clue for deals
+knots:clue for knots
+moons:clue for moons
+essay:clue for essay

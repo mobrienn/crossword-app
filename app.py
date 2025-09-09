@@ -1,4 +1,5 @@
 from flask import Flask, render_template
+from crossword import CrosswordGenerator
 
 app = Flask(__name__)
 
