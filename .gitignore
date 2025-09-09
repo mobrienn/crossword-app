@@ -3,6 +3,29 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Virtual environment
+venv/
+ENV/
+.env
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Flask-specific
+instance/
+.webassets-cache
+
+# Pytest cache
+.pytest_cache/
+
 # C extensions
 *.so
 
